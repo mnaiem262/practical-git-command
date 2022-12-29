@@ -25,5 +25,9 @@ git diff --staged # shows staged changes
 
 git diff --cached # same as the above 
 
+git log # full history 
+git log --online # summary 
+git log --reverse  # lists the commits from the oldest to the newest 
+
 
 
