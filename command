@@ -19,3 +19,11 @@ git rm --cached filename # remove from staging area
 
 git mv filename1 filename2 # renaming or moving files
 
+git diff # shows unstaged changes 
+
+git diff --staged # shows staged changes 
+
+git diff --cached # same as the above 
+
+
+
