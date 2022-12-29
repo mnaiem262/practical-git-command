@@ -29,5 +29,12 @@ git log # full history
 git log --online # summary 
 git log --reverse  # lists the commits from the oldest to the newest 
 
+git show commitid # shows the given commit
+
+git show HEAD # shows the last commit
+
+git show HEAD~NUMBER # TWO  steps before the last commit
+
+git show HEAD:file.js # shows the version of file.js stored in the last commit
 
 
