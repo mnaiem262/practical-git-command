@@ -10,5 +10,5 @@ git commit -m "first commit"
 
 git commit  # opens the default editor to type a long message
 
-
+git commit -am "commit" skipping the staging area 
 
